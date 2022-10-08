@@ -1,0 +1,12 @@
+{
+  "realm": "ReactSpringrealm",
+  "auth-server-url": "https://auth.megabrain.kr/",
+  "ssl-required": "external",
+  "resource": "springclient",
+  "verify-token-audience": true,
+  "credentials": {
+    "secret": "VW7Kj0VTwlaOloLH5Go7jksup1kyDoyE"
+  },
+  "confidential-port": 0,
+  "policy-enforcer": {}
+}

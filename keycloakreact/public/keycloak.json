@@ -1,0 +1,8 @@
+{
+  "realm": "ToyProject",
+  "auth-server-url": "https://auth.megabrain.kr/",
+  "ssl-required": "external",
+  "resource": "springclient",
+  "confidential-port": 0,
+  "policy-enforcer": {}
+}
